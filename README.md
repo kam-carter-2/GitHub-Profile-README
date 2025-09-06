@@ -33,6 +33,3 @@ Currently, I'm focused on learning full-stack development and improving my probl
 - Email: kamroncarter@bmc.edu  
 
 ---
-
-✨ Fun fact: I love learning new tech skills while sipping coffee ☕  
-
