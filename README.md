@@ -7,7 +7,7 @@ Currently, I'm focused on learning full-stack development and improving my probl
 ---
 
 ## Skills & Tools  
-- you **Languages:** Python, JavaScript, Java  
+- **Languages:** Python, JavaScript, Java  
 - **Web Development:** HTML, CSS, React, Node.js  
 - **Version Control:** Git & GitHub  
 - **Cloud & DevOps (Learning):** AWS, Docker  
